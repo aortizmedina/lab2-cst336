@@ -1,0 +1,24 @@
+[12-Sep-2017 21:45:21 UTC] PHP Fatal error:  Call to undefined function rnad() in /home/ubuntu/workspace/777/index.php on line 11
+[12-Sep-2017 21:45:21 UTC] PHP Stack trace:
+[12-Sep-2017 21:45:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[12-Sep-2017 21:45:44 UTC] PHP Fatal error:  Call to undefined function rnad() in /home/ubuntu/workspace/777/index.php on line 11
+[12-Sep-2017 21:45:44 UTC] PHP Stack trace:
+[12-Sep-2017 21:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:16:27 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/777/index.php on line 13
+[13-Sep-2017 04:16:27 UTC] PHP Stack trace:
+[13-Sep-2017 04:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:16:27 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/777/index.php on line 13
+[13-Sep-2017 04:16:27 UTC] PHP Stack trace:
+[13-Sep-2017 04:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:16:27 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/777/index.php on line 14
+[13-Sep-2017 04:16:27 UTC] PHP Stack trace:
+[13-Sep-2017 04:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:18:42 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/777/index.php on line 13
+[13-Sep-2017 04:18:42 UTC] PHP Stack trace:
+[13-Sep-2017 04:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:18:42 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/777/index.php on line 13
+[13-Sep-2017 04:18:42 UTC] PHP Stack trace:
+[13-Sep-2017 04:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
+[13-Sep-2017 04:18:42 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/777/index.php on line 14
+[13-Sep-2017 04:18:42 UTC] PHP Stack trace:
+[13-Sep-2017 04:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/777/index.php:0
